@@ -1,10 +1,10 @@
-# My First Repo
+# My First Repository
 
 This is my first GitHub repository.
 
-## Files
+## Files in this
 - test1.txt
 - test2.txt
 
-## Author
+## Author name: 
 Abhilash
